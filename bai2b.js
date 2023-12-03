@@ -59,7 +59,7 @@ export default function Bai2b() {
             placeholder="Hãy chia sẻ những điều mà bạn thích về sản phẩm"
             style={{ flex: 1}}
           ></TextInput>
-          <Pressable style={{ backgroundColor: "red" }}>
+          <Pressable>
             <Text>https://meet.google.com/nsj-ojwi-xpp</Text>
           </Pressable>
         </View>

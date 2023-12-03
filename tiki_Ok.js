@@ -103,7 +103,6 @@ const styles = StyleSheet.create({
 
   topLeft: {
     justifyContent: "space-between",
-    backgroundColor:'red'
   },
 
   imgProduct: {
